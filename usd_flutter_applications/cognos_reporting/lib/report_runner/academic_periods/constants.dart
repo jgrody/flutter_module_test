@@ -1,0 +1,1 @@
+const String academicPeriodSelectorLabel = 'Academic Period';
